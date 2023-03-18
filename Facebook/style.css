@@ -1,0 +1,150 @@
+body{
+    background-color: #f0f2f5;
+}
+.container{
+    width:100%;
+}
+div{
+    display: block;
+}
+.section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin:auto;
+    width:1000px;
+    position: relative;
+}
+.leftbox{
+    padding-right: 35px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+.image{
+   padding-top: 100px;
+   padding-bottom: 15px;
+   padding-left: 0;
+   padding-right: 0;
+}
+img{
+    padding: 0px;
+    display: block;
+    margin-bottom: -20px;
+    margin-left: -20px;
+}
+.heading{
+    font-size: 28px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-bottom: 20px;
+    margin: 0;
+
+}
+.rightbox{
+    display: inline-block;
+    margin-top: 100px;
+}
+.form{
+    background-color: white;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow:2px 2px grey;
+}
+.email{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#email{
+    padding: 10px;
+    width:280px;
+    border-radius: 5px;
+}
+.password{
+    width:315px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#password{
+    width: 280px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn1{
+    background-color: rgb(54, 54, 249);
+    margin-left: 10px;
+    border-radius: 5px;
+    border:none;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width:305px;
+}
+ .btn1 a{
+    text-decoration:none;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    padding: 5px;
+}
+.btn1:hover{
+    background-color:rgb(28, 35, 252) ;
+}
+.forgot a {
+    text-decoration: none;
+    color:rgb(54,54,249);
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: small;
+}
+.forgot a:hover{
+    text-decoration: underline;
+}
+.bar{
+    margin:8px;
+    padding-bottom: 10px;
+}
+.btn2{
+    background-color:#42b72a;
+    border:none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+margin-left:75px;
+margin-bottom: 15px;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 15px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.btn2:hover{
+    background-color: #35b41c;
+}
+
+.head p{
+    font-size: 14px;
+    padding-left: 20px;
+
+}
+.head a{
+    color:black;
+    text-decoration: none;
+}
+.head a:hover{
+    text-decoration: underline;
+}
+
